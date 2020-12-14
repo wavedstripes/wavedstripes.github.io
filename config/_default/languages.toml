@@ -1,20 +1,22 @@
-# Languages
-#   Create a `[X]` block for each language you want, where X is the language ID.
-#   Refer to https://sourcethemes.com/academic/docs/language/
 
-# Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"
+  title = "Print & Graphic Design @ Tallinn Estonia"
+  [en.params]
+    description = "Print services @ Tallinn Estonia: Business Cards, Flyers, Posters, Custom Stickers, Print on Textile; Post print: Lamination, Folding, Stapling; Vinyl Signs, Vinyl Car Wrap, Vinyl Stickers"
 
-# Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[et]
+  languageCode = "et"
+  contentDir = "content/et"
+  title = "Trükk ja graafiline disain @ Tallinn Estonia"
+  [et.params]
+    description = "Tallinna Trükiteenused: visiitkaardid, flaierid, plakatid, kleebised, tekstiilile printimine; Pärast printimist: lamineerimine, voltimine, klammerdamine; Autode vinüülkiletamine, vinüülmärgid, vinüülkleebised"
+
+[ru]
+  languageCode = "ru"
+  contentDir = "content/ru"
+  title = "Печать и графический дизайн @ Таллин, Эстония"
+  [ru.params]
+    description = "Услуги печати в Таллине, Эстония: визитки, флаеры, плакаты, наклейки на заказ, печать на текстиле; Послепечатная обработка: ламинация, фальцовка, сшивание; Виниловые работы: Виниловые вывески, Полная обклейка автомобиля винилом, Виниловые наклейки"
+
