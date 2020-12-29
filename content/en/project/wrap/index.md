@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: wrap
+summary: Car wrap in Tallinn, Estonia
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- vinyl
+date: "2020-12-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: wrap by the book @ Tallinn, Estonia
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Check the samples @ Instagram
+  url: https://www.instagram.com/wavedstripes/
 url_code: ""
 url_pdf: ""
 url_slides: ""
