@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Печать и графический дизайн @ Таллин, Эстония</title>
+    <link>https://www.wavedstripes.com/ru/authors/</link>
+      <atom:link href="https://www.wavedstripes.com/ru/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language>
+    <image>
+      <url>https://www.wavedstripes.com/media/Torley_design_car.jpg</url>
+      <title>Authors</title>
+      <link>https://www.wavedstripes.com/ru/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

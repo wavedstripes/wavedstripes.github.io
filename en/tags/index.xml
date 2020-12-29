@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Print &amp; Graphic Design @ Tallinn Estonia</title>
+    <link>https://www.wavedstripes.com/en/tags/</link>
+      <atom:link href="https://www.wavedstripes.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.wavedstripes.com/media/Torley_design_car.jpg</url>
+      <title>Tags</title>
+      <link>https://www.wavedstripes.com/en/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

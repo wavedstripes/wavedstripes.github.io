@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Печать и графический дизайн @ Таллин, Эстония</title>
+    <link>https://www.wavedstripes.com/ru/categories/</link>
+      <atom:link href="https://www.wavedstripes.com/ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language>
+    <image>
+      <url>https://www.wavedstripes.com/media/Torley_design_car.jpg</url>
+      <title>Categories</title>
+      <link>https://www.wavedstripes.com/ru/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
