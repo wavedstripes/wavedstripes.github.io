@@ -89,7 +89,7 @@ show_related = {book = false, page = true, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "wavedstripes@gmail.com"
-phone = "+37255905147"
+phone = "(+372)55905147"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
