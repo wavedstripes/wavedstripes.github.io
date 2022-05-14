@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.wavedstripes.com/ru/authors/</loc>
     <xhtml:link
@@ -19,9 +18,7 @@
                 hreflang="ru"
                 href="https://www.wavedstripes.com/ru/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -38,9 +35,7 @@
                 hreflang="ru"
                 href="https://www.wavedstripes.com/ru/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/ru/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -57,9 +52,7 @@
                 hreflang="ru"
                 href="https://www.wavedstripes.com/ru/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -76,9 +69,7 @@
                 hreflang="ru"
                 href="https://www.wavedstripes.com/ru/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/ru/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,5 +87,4 @@
                 href="https://www.wavedstripes.com/ru/"
                 />
   </url>
-  
 </urlset>

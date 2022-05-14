@@ -1,48 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.wavedstripes.com/en/project/banners/</loc>
-    <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://www.wavedstripes.com/en/tag/banners/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.wavedstripes.com/en/project/banners/</loc>
+    <lastmod>2020-12-29T18:50:10+02:00</lastmod>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/project/cards/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/cards/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/design/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wavedstripes.com/en/project/flyers/</loc>
-    <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/flyers/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.wavedstripes.com/en/project/flyers/</loc>
+    <lastmod>2020-12-29T18:50:10+02:00</lastmod>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/project/design/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
     <xhtml:link
@@ -60,24 +43,16 @@
                 hreflang="en"
                 href="https://www.wavedstripes.com/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/project/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.wavedstripes.com/en/project/stickers/</loc>
-    <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/stickers/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.wavedstripes.com/en/project/stickers/</loc>
+    <lastmod>2020-12-29T18:50:10+02:00</lastmod>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tags/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
     <xhtml:link
@@ -95,34 +70,22 @@
                 hreflang="en"
                 href="https://www.wavedstripes.com/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/vinyl/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/project/wrap/</loc>
     <lastmod>2020-12-29T18:50:10+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/slides/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/slides/example/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/academic/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/categories/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
     <xhtml:link
@@ -140,59 +103,22 @@
                 hreflang="en"
                 href="https://www.wavedstripes.com/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/category/demo/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/post/getting-started/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="et"
-                href="https://www.wavedstripes.com/et/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.wavedstripes.com/ru/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/post/</loc>
     <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.wavedstripes.com/en/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,10 +136,4 @@
                 href="https://www.wavedstripes.com/en/publication_types/"
                 />
   </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-12-14T16:27:34+02:00</lastmod>
-  </url>
-  
 </urlset>
